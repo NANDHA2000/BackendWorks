@@ -1,0 +1,22 @@
+C:\Users\NandhakumarArumugana\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\nandha imp\C# Net\CMS\DapperExamples\CMS.Repository\obj\Debug\net6.0\CMS.Repository.csproj.AssemblyReference.cache
+C:\Users\NandhakumarArumugana\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\nandha imp\C# Net\CMS\DapperExamples\CMS.Repository\obj\Debug\net6.0\CMS.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NandhakumarArumugana\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\nandha imp\C# Net\CMS\DapperExamples\CMS.Repository\obj\Debug\net6.0\CMS.Repository.AssemblyInfoInputs.cache
+C:\Users\NandhakumarArumugana\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\nandha imp\C# Net\CMS\DapperExamples\CMS.Repository\obj\Debug\net6.0\CMS.Repository.AssemblyInfo.cs
+C:\Users\NandhakumarArumugana\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\nandha imp\C# Net\CMS\DapperExamples\CMS.Repository\obj\Debug\net6.0\CMS.Repository.csproj.CoreCompileInputs.cache
+C:\DapperExamples\CMS.Repository\obj\Debug\net6.0\CMS.Repository.csproj.AssemblyReference.cache
+C:\DapperExamples\CMS.Repository\obj\Debug\net6.0\CMS.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\DapperExamples\CMS.Repository\obj\Debug\net6.0\CMS.Repository.AssemblyInfoInputs.cache
+C:\DapperExamples\CMS.Repository\obj\Debug\net6.0\CMS.Repository.AssemblyInfo.cs
+C:\DapperExamples\CMS.Repository\obj\Debug\net6.0\CMS.Repository.csproj.CoreCompileInputs.cache
+C:\DapperExamples\CMS.Repository\bin\Debug\net6.0\CMS.Repository.deps.json
+C:\DapperExamples\CMS.Repository\bin\Debug\net6.0\CMS.Repository.dll
+C:\DapperExamples\CMS.Repository\bin\Debug\net6.0\CMS.Repository.pdb
+C:\DapperExamples\CMS.Repository\bin\Debug\net6.0\CMS.Framework.dll
+C:\DapperExamples\CMS.Repository\bin\Debug\net6.0\CMS.Model.dll
+C:\DapperExamples\CMS.Repository\bin\Debug\net6.0\CMS.Framework.pdb
+C:\DapperExamples\CMS.Repository\bin\Debug\net6.0\CMS.Model.pdb
+C:\DapperExamples\CMS.Repository\obj\Debug\net6.0\CMS.Repository.csproj.CopyComplete
+C:\DapperExamples\CMS.Repository\obj\Debug\net6.0\CMS.Repository.dll
+C:\DapperExamples\CMS.Repository\obj\Debug\net6.0\refint\CMS.Repository.dll
+C:\DapperExamples\CMS.Repository\obj\Debug\net6.0\CMS.Repository.pdb
+C:\DapperExamples\CMS.Repository\obj\Debug\net6.0\ref\CMS.Repository.dll

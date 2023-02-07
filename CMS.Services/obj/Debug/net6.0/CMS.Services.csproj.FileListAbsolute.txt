@@ -1,0 +1,24 @@
+C:\Users\NandhakumarArumugana\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\nandha imp\C# Net\CMS\DapperExamples\CMS.Services\obj\Debug\net6.0\CMS.Services.csproj.AssemblyReference.cache
+C:\Users\NandhakumarArumugana\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\nandha imp\C# Net\CMS\DapperExamples\CMS.Services\obj\Debug\net6.0\CMS.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NandhakumarArumugana\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\nandha imp\C# Net\CMS\DapperExamples\CMS.Services\obj\Debug\net6.0\CMS.Services.AssemblyInfoInputs.cache
+C:\Users\NandhakumarArumugana\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\nandha imp\C# Net\CMS\DapperExamples\CMS.Services\obj\Debug\net6.0\CMS.Services.AssemblyInfo.cs
+C:\Users\NandhakumarArumugana\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\nandha imp\C# Net\CMS\DapperExamples\CMS.Services\obj\Debug\net6.0\CMS.Services.csproj.CoreCompileInputs.cache
+C:\DapperExamples\CMS.Services\obj\Debug\net6.0\CMS.Services.csproj.AssemblyReference.cache
+C:\DapperExamples\CMS.Services\obj\Debug\net6.0\CMS.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\DapperExamples\CMS.Services\obj\Debug\net6.0\CMS.Services.AssemblyInfoInputs.cache
+C:\DapperExamples\CMS.Services\obj\Debug\net6.0\CMS.Services.AssemblyInfo.cs
+C:\DapperExamples\CMS.Services\obj\Debug\net6.0\CMS.Services.csproj.CoreCompileInputs.cache
+C:\DapperExamples\CMS.Services\bin\Debug\net6.0\CMS.Services.deps.json
+C:\DapperExamples\CMS.Services\bin\Debug\net6.0\CMS.Services.dll
+C:\DapperExamples\CMS.Services\bin\Debug\net6.0\CMS.Services.pdb
+C:\DapperExamples\CMS.Services\bin\Debug\net6.0\CMS.Framework.dll
+C:\DapperExamples\CMS.Services\bin\Debug\net6.0\CMS.Model.dll
+C:\DapperExamples\CMS.Services\bin\Debug\net6.0\CMS.Repository.dll
+C:\DapperExamples\CMS.Services\bin\Debug\net6.0\CMS.Framework.pdb
+C:\DapperExamples\CMS.Services\bin\Debug\net6.0\CMS.Model.pdb
+C:\DapperExamples\CMS.Services\bin\Debug\net6.0\CMS.Repository.pdb
+C:\DapperExamples\CMS.Services\obj\Debug\net6.0\CMS.Services.csproj.CopyComplete
+C:\DapperExamples\CMS.Services\obj\Debug\net6.0\CMS.Services.dll
+C:\DapperExamples\CMS.Services\obj\Debug\net6.0\refint\CMS.Services.dll
+C:\DapperExamples\CMS.Services\obj\Debug\net6.0\CMS.Services.pdb
+C:\DapperExamples\CMS.Services\obj\Debug\net6.0\ref\CMS.Services.dll

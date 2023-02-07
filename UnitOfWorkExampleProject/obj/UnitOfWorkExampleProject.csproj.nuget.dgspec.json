@@ -1,0 +1,498 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\CMS\\BackendWorks\\BackendWorks\\UnitOfWorkExampleProject\\UnitOfWorkExampleProject.csproj": {}
+  },
+  "projects": {
+    "C:\\CMS\\BackendWorks\\BackendWorks\\CMS.DependencyInjection\\CMS.DependencyInjection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CMS\\BackendWorks\\BackendWorks\\CMS.DependencyInjection\\CMS.DependencyInjection.csproj",
+        "projectName": "CMS.DependencyInjection",
+        "projectPath": "C:\\CMS\\BackendWorks\\BackendWorks\\CMS.DependencyInjection\\CMS.DependencyInjection.csproj",
+        "packagesPath": "C:\\Users\\NandhakumarArumugana\\.nuget\\packages\\",
+        "outputPath": "C:\\CMS\\BackendWorks\\BackendWorks\\CMS.DependencyInjection\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\NandhakumarArumugana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\CMS\\BackendWorks\\BackendWorks\\CMS.Framework\\CMS.Framework.csproj": {
+                "projectPath": "C:\\CMS\\BackendWorks\\BackendWorks\\CMS.Framework\\CMS.Framework.csproj"
+              },
+              "C:\\CMS\\BackendWorks\\BackendWorks\\CMS.Services\\CMS.Services.csproj": {
+                "projectPath": "C:\\CMS\\BackendWorks\\BackendWorks\\CMS.Services\\CMS.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Azure.Extensions.AspNetCore.Configuration.Secrets": {
+              "target": "Package",
+              "version": "[1.2.2, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\CMS\\BackendWorks\\BackendWorks\\CMS.Framework\\CMS.Framework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CMS\\BackendWorks\\BackendWorks\\CMS.Framework\\CMS.Framework.csproj",
+        "projectName": "CMS.Framework",
+        "projectPath": "C:\\CMS\\BackendWorks\\BackendWorks\\CMS.Framework\\CMS.Framework.csproj",
+        "packagesPath": "C:\\Users\\NandhakumarArumugana\\.nuget\\packages\\",
+        "outputPath": "C:\\CMS\\BackendWorks\\BackendWorks\\CMS.Framework\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\NandhakumarArumugana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\CMS\\BackendWorks\\BackendWorks\\CMS.Model\\CMS.Model.csproj": {
+                "projectPath": "C:\\CMS\\BackendWorks\\BackendWorks\\CMS.Model\\CMS.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Azure.Extensions.AspNetCore.Configuration.Secrets": {
+              "target": "Package",
+              "version": "[1.2.2, )"
+            },
+            "Azure.Identity": {
+              "target": "Package",
+              "version": "[1.8.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\CMS\\BackendWorks\\BackendWorks\\CMS.Model\\CMS.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CMS\\BackendWorks\\BackendWorks\\CMS.Model\\CMS.Model.csproj",
+        "projectName": "CMS.Model",
+        "projectPath": "C:\\CMS\\BackendWorks\\BackendWorks\\CMS.Model\\CMS.Model.csproj",
+        "packagesPath": "C:\\Users\\NandhakumarArumugana\\.nuget\\packages\\",
+        "outputPath": "C:\\CMS\\BackendWorks\\BackendWorks\\CMS.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\NandhakumarArumugana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Azure.Extensions.AspNetCore.Configuration.Secrets": {
+              "target": "Package",
+              "version": "[1.2.2, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\CMS\\BackendWorks\\BackendWorks\\CMS.Repository\\CMS.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CMS\\BackendWorks\\BackendWorks\\CMS.Repository\\CMS.Repository.csproj",
+        "projectName": "CMS.Repository",
+        "projectPath": "C:\\CMS\\BackendWorks\\BackendWorks\\CMS.Repository\\CMS.Repository.csproj",
+        "packagesPath": "C:\\Users\\NandhakumarArumugana\\.nuget\\packages\\",
+        "outputPath": "C:\\CMS\\BackendWorks\\BackendWorks\\CMS.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\NandhakumarArumugana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\CMS\\BackendWorks\\BackendWorks\\CMS.Framework\\CMS.Framework.csproj": {
+                "projectPath": "C:\\CMS\\BackendWorks\\BackendWorks\\CMS.Framework\\CMS.Framework.csproj"
+              },
+              "C:\\CMS\\BackendWorks\\BackendWorks\\CMS.Model\\CMS.Model.csproj": {
+                "projectPath": "C:\\CMS\\BackendWorks\\BackendWorks\\CMS.Model\\CMS.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Azure.Extensions.AspNetCore.Configuration.Secrets": {
+              "target": "Package",
+              "version": "[1.2.2, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\CMS\\BackendWorks\\BackendWorks\\CMS.Services\\CMS.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CMS\\BackendWorks\\BackendWorks\\CMS.Services\\CMS.Services.csproj",
+        "projectName": "CMS.Services",
+        "projectPath": "C:\\CMS\\BackendWorks\\BackendWorks\\CMS.Services\\CMS.Services.csproj",
+        "packagesPath": "C:\\Users\\NandhakumarArumugana\\.nuget\\packages\\",
+        "outputPath": "C:\\CMS\\BackendWorks\\BackendWorks\\CMS.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\NandhakumarArumugana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\CMS\\BackendWorks\\BackendWorks\\CMS.Framework\\CMS.Framework.csproj": {
+                "projectPath": "C:\\CMS\\BackendWorks\\BackendWorks\\CMS.Framework\\CMS.Framework.csproj"
+              },
+              "C:\\CMS\\BackendWorks\\BackendWorks\\CMS.Model\\CMS.Model.csproj": {
+                "projectPath": "C:\\CMS\\BackendWorks\\BackendWorks\\CMS.Model\\CMS.Model.csproj"
+              },
+              "C:\\CMS\\BackendWorks\\BackendWorks\\CMS.Repository\\CMS.Repository.csproj": {
+                "projectPath": "C:\\CMS\\BackendWorks\\BackendWorks\\CMS.Repository\\CMS.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Azure.Extensions.AspNetCore.Configuration.Secrets": {
+              "target": "Package",
+              "version": "[1.2.2, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\CMS\\BackendWorks\\BackendWorks\\UnitOfWorkExampleProject\\UnitOfWorkExampleProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CMS\\BackendWorks\\BackendWorks\\UnitOfWorkExampleProject\\UnitOfWorkExampleProject.csproj",
+        "projectName": "UnitOfWorkExampleProject",
+        "projectPath": "C:\\CMS\\BackendWorks\\BackendWorks\\UnitOfWorkExampleProject\\UnitOfWorkExampleProject.csproj",
+        "packagesPath": "C:\\Users\\NandhakumarArumugana\\.nuget\\packages\\",
+        "outputPath": "C:\\CMS\\BackendWorks\\BackendWorks\\UnitOfWorkExampleProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\NandhakumarArumugana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\CMS\\BackendWorks\\BackendWorks\\CMS.DependencyInjection\\CMS.DependencyInjection.csproj": {
+                "projectPath": "C:\\CMS\\BackendWorks\\BackendWorks\\CMS.DependencyInjection\\CMS.DependencyInjection.csproj"
+              },
+              "C:\\CMS\\BackendWorks\\BackendWorks\\CMS.Services\\CMS.Services.csproj": {
+                "projectPath": "C:\\CMS\\BackendWorks\\BackendWorks\\CMS.Services\\CMS.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Azure.Extensions.AspNetCore.Configuration.Secrets": {
+              "target": "Package",
+              "version": "[1.2.2, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+C:\Users\NandhakumarArumugana\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\nandha imp\C# Net\CMS\DapperExamples\CMS.Model\bin\Debug\net6.0\CMS.Model.deps.json
+C:\Users\NandhakumarArumugana\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\nandha imp\C# Net\CMS\DapperExamples\CMS.Model\bin\Debug\net6.0\CMS.Model.dll
+C:\Users\NandhakumarArumugana\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\nandha imp\C# Net\CMS\DapperExamples\CMS.Model\bin\Debug\net6.0\CMS.Model.pdb
+C:\Users\NandhakumarArumugana\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\nandha imp\C# Net\CMS\DapperExamples\CMS.Model\obj\Debug\net6.0\CMS.Model.csproj.AssemblyReference.cache
+C:\Users\NandhakumarArumugana\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\nandha imp\C# Net\CMS\DapperExamples\CMS.Model\obj\Debug\net6.0\CMS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NandhakumarArumugana\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\nandha imp\C# Net\CMS\DapperExamples\CMS.Model\obj\Debug\net6.0\CMS.Model.AssemblyInfoInputs.cache
+C:\Users\NandhakumarArumugana\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\nandha imp\C# Net\CMS\DapperExamples\CMS.Model\obj\Debug\net6.0\CMS.Model.AssemblyInfo.cs
+C:\Users\NandhakumarArumugana\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\nandha imp\C# Net\CMS\DapperExamples\CMS.Model\obj\Debug\net6.0\CMS.Model.csproj.CoreCompileInputs.cache
+C:\Users\NandhakumarArumugana\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\nandha imp\C# Net\CMS\DapperExamples\CMS.Model\obj\Debug\net6.0\CMS.Model.dll
+C:\Users\NandhakumarArumugana\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\nandha imp\C# Net\CMS\DapperExamples\CMS.Model\obj\Debug\net6.0\refint\CMS.Model.dll
+C:\Users\NandhakumarArumugana\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\nandha imp\C# Net\CMS\DapperExamples\CMS.Model\obj\Debug\net6.0\CMS.Model.pdb
+C:\Users\NandhakumarArumugana\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\nandha imp\C# Net\CMS\DapperExamples\CMS.Model\obj\Debug\net6.0\ref\CMS.Model.dll
+C:\DapperExamples\CMS.Model\bin\Debug\net6.0\CMS.Model.deps.json
+C:\DapperExamples\CMS.Model\bin\Debug\net6.0\CMS.Model.dll
+C:\DapperExamples\CMS.Model\bin\Debug\net6.0\CMS.Model.pdb
+C:\DapperExamples\CMS.Model\obj\Debug\net6.0\CMS.Model.csproj.AssemblyReference.cache
+C:\DapperExamples\CMS.Model\obj\Debug\net6.0\CMS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\DapperExamples\CMS.Model\obj\Debug\net6.0\CMS.Model.AssemblyInfoInputs.cache
+C:\DapperExamples\CMS.Model\obj\Debug\net6.0\CMS.Model.AssemblyInfo.cs
+C:\DapperExamples\CMS.Model\obj\Debug\net6.0\CMS.Model.csproj.CoreCompileInputs.cache
+C:\DapperExamples\CMS.Model\obj\Debug\net6.0\CMS.Model.dll
+C:\DapperExamples\CMS.Model\obj\Debug\net6.0\refint\CMS.Model.dll
+C:\DapperExamples\CMS.Model\obj\Debug\net6.0\CMS.Model.pdb
+C:\DapperExamples\CMS.Model\obj\Debug\net6.0\ref\CMS.Model.dll

@@ -1,0 +1,20 @@
+C:\Users\NandhakumarArumugana\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\nandha imp\C# Net\CMS\DapperExamples\CMS.Framework\obj\Debug\net6.0\CMS.Framework.csproj.AssemblyReference.cache
+C:\Users\NandhakumarArumugana\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\nandha imp\C# Net\CMS\DapperExamples\CMS.Framework\obj\Debug\net6.0\CMS.Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NandhakumarArumugana\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\nandha imp\C# Net\CMS\DapperExamples\CMS.Framework\obj\Debug\net6.0\CMS.Framework.AssemblyInfoInputs.cache
+C:\Users\NandhakumarArumugana\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\nandha imp\C# Net\CMS\DapperExamples\CMS.Framework\obj\Debug\net6.0\CMS.Framework.AssemblyInfo.cs
+C:\Users\NandhakumarArumugana\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\nandha imp\C# Net\CMS\DapperExamples\CMS.Framework\obj\Debug\net6.0\CMS.Framework.csproj.CoreCompileInputs.cache
+C:\DapperExamples\CMS.Framework\bin\Debug\net6.0\CMS.Framework.deps.json
+C:\DapperExamples\CMS.Framework\bin\Debug\net6.0\CMS.Framework.dll
+C:\DapperExamples\CMS.Framework\bin\Debug\net6.0\CMS.Framework.pdb
+C:\DapperExamples\CMS.Framework\bin\Debug\net6.0\CMS.Model.dll
+C:\DapperExamples\CMS.Framework\bin\Debug\net6.0\CMS.Model.pdb
+C:\DapperExamples\CMS.Framework\obj\Debug\net6.0\CMS.Framework.csproj.AssemblyReference.cache
+C:\DapperExamples\CMS.Framework\obj\Debug\net6.0\CMS.Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\DapperExamples\CMS.Framework\obj\Debug\net6.0\CMS.Framework.AssemblyInfoInputs.cache
+C:\DapperExamples\CMS.Framework\obj\Debug\net6.0\CMS.Framework.AssemblyInfo.cs
+C:\DapperExamples\CMS.Framework\obj\Debug\net6.0\CMS.Framework.csproj.CoreCompileInputs.cache
+C:\DapperExamples\CMS.Framework\obj\Debug\net6.0\CMS.Framework.csproj.CopyComplete
+C:\DapperExamples\CMS.Framework\obj\Debug\net6.0\CMS.Framework.dll
+C:\DapperExamples\CMS.Framework\obj\Debug\net6.0\refint\CMS.Framework.dll
+C:\DapperExamples\CMS.Framework\obj\Debug\net6.0\CMS.Framework.pdb
+C:\DapperExamples\CMS.Framework\obj\Debug\net6.0\ref\CMS.Framework.dll

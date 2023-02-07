@@ -1,0 +1,39 @@
+{
+  "AzureKeyVaultSettings": {
+    "KeyVaultName": "",
+    "TenantId": "",
+    "ClientId": "",
+    "ClientSecret": "",
+    "ProxyAddress": "",
+    "ReloadInterval": "00:01:00"
+  },
+  "EmailConfig": {
+    "ToEmail": "nandhakumar.arumuganainar@kalpitatechnologies.com",
+    //"ApiKey": "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",
+    "ApiKey": "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",
+    "FromEmail": "no-reply@kalpitatechnologies.com"
+
+  },
+
+  "AzureKeyVaultKeys": {
+    "ApplicationInsights": "",
+    "DatabaseConnectionString": "",
+    "ApplicationClientId": "",
+    "ApplicationClientSecret": "",
+    "TenantID": ""
+  },
+  "DatabaseAdvancedSettings": {
+    "CommandTimeOut": "00:30:00",
+    "DatabaseConnectionString": "Server=NANDHAKUMAR;Database=Nandha;Trusted_Connection=true;TrustServerCertificate=True"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Trace",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  },
+
+  "AllowedHosts": "*"
+}
+ 
